@@ -1,4 +1,4 @@
 blackjack
 =========
 
-Final project for first Java Module in Masters
+Final project for first Java Module in Masters Course
